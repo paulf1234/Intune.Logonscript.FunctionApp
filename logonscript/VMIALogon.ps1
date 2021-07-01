@@ -1,11 +1,11 @@
 #region Config
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-$client = "Intune.Training"
+$client = "VMIA"
 $logPath = "$ENV:ProgramData\$client\Logs"
 $logFile = "$logPath\LogonScript.log"
 $user = whoami /upn
 $errorOccurred = $null
-$fileServer = 'fileserver.corp'
+$fileServer = 'stprdfs01.file.core.windows.net'
 $funcUri = 'https://{putURIhere}'
 #endregion
 #region Functions

@@ -2,12 +2,12 @@
   "drives": [
     {
       "group": [
-        "ALLUSERS"
+        "ICT I&O"
       ],
       "drives": [
         {
-          "driveLetter": "G",
-          "uncPath": "\\\\FILESERVER.CORP\\GroupShare"
+          "driveLetter": "K",
+          "uncPath": "\\\\stprdfs01.file.core.windows.net\\vmiadata"
         }
       ]
     },
@@ -24,8 +24,7 @@
     },
     {
       "group": [
-        "InternSec",
-        "ExecutiveSec"
+        "No_Body"
       ],
       "drives": [
         {

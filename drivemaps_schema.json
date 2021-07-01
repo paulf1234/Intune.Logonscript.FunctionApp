@@ -10,12 +10,12 @@
             "drives": [
                 {
                     "group": [
-                        "ALLUSERS"
+                        "Domain Users"
                     ],
                     "drives": [
                         {
-                            "driveLetter": "G",
-                            "uncPath": "\\\\FILESERVER.CORP\\GroupShare"
+                            "driveLetter": "K",
+                            "uncPath": "\\\\stprdfs01.file.core.windows.net\\vmiadata"
                         }
                     ]
                 },
@@ -25,8 +25,8 @@
                     ],
                     "drives": [
                         {
-                            "driveLetter": "H",
-                            "uncPath": "\\\\FILESERVER.CORP\\BUSINESSSECRETS"
+                            "driveLetter": "K",
+                            "uncPath": "\\\\stprdfs01.file.core.windows.net\\vmiadata"
                         }
                     ]
                 },
